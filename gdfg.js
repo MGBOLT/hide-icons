@@ -1,9 +1,4 @@
-// TypingMind Cloud Sync & Backup v2.0.0
-// Combines features from s3.js and YATSE for comprehensive sync and backup
-
-// ==================== CONSTANTS & STATE ====================
-
-const EXTENSION_VERSION = "2.0.0";
+const EXTENSION_VERSION = "2008578";
 const EXCLUDED_SETTINGS = [
   "aws-bucket",
   "aws-access-key",
